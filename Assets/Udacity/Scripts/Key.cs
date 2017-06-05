@@ -12,6 +12,8 @@ public class Key : MonoBehaviour
 	void Update()
 	{
 		transform.position = new Vector3 (0, 2 + Mathf.Sin (Time.time * 5.0f), 37);
+		
+		//You can use this code to make the key float
 
 		//Not required, but for fun why not try adding a Key Floating Animation here :)
 	}
