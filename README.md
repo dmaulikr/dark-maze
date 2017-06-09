@@ -4,10 +4,11 @@ Virtual reality app for Android called "Dark Maze".
 SDK Version: Android 5.0 (API Level 21)
 Unity Version: 5.5.3
 Lucas Petti Martins
-Levei aproximadamente duas semanas para terminar o projeto.
 
-Tive muitas dificuldades com a programação, uma vez que não tenho experiência no assunto. Consegui resolver maior parte dos problemas lendo o fórum, e acredito que encontrei fórmulas simples para questões como os métodos da chave e do portão; posicionar o CoinPoof na mesma posição das moedas; sons que o portão faz ao ser clicado (fechado e aberto).
+I took about two weeks to complete this project.
 
-Os maiores desafios foram entender e resolver os problemas através da programação e também criar um labirinto com uma arte coesa em termos de iluminação, texturas e trilha sonora.
+I had a lot of trouble with programming, since I am not experienced in this. I managed to solve most problems looking through Udacity's forum and I believe I found simple ways to solve issues with the key and door scripts, positioning the CoinPoof and the sounds associated with the door (open and closed).
 
-Enviei o aplicativo para plataforma Android.
+In this project I tried to create a dark mood, using also a esotheric soundtrack.
+
+I built this app in Android.
