@@ -12,3 +12,7 @@ I had a lot of trouble with programming, since I am not experienced in this. I m
 In this project I tried to create a dark mood, using also a esotheric soundtrack.
 
 I built this app in Android.
+
+Lucas Petti - luc_petti@hotmail.com
+
+https://github.com/lucaspetti/dark-maze/
