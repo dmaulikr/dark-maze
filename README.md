@@ -1,9 +1,12 @@
-# dark-maze
+# Dark Maze
 Virtual reality app for Android called "Dark Maze".
 
+<B>Installation</B>
+
+To install this project, you just need to open it using Unity 3D. Unity Version: 5.5.3
 SDK Version: Android 5.0 (API Level 21)
-Unity Version: 5.5.3
-Lucas Petti Martins
+
+<B>Project</B>
 
 I took about two weeks to complete this project.
 
@@ -12,6 +15,8 @@ I had a lot of trouble with programming, since I am not experienced in this. I m
 In this project I tried to create a dark mood, using also a esotheric soundtrack.
 
 I built this app in Android.
+
+<B>Meta</B>
 
 Lucas Petti - luc_petti@hotmail.com
 
